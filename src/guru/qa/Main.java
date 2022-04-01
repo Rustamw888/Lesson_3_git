@@ -8,6 +8,6 @@ public class Main {
     }
 
     public static void slow() {
-        System.out.println("another method");
+        System.out.println("ANOTHER METHOD");
     }
 }
