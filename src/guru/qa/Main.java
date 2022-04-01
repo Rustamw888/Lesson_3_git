@@ -7,7 +7,7 @@ public class Main {
         System.out.println("Another line");
     }
 
-    public static void slowMethod() {
-        System.out.println("ANOTHER METHOD");
+    public static void slow() {
+        System.out.println("ANOTHER METHOD!");
     }
 }
