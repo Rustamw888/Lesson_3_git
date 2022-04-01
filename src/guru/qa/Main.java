@@ -8,6 +8,6 @@ public class Main {
     }
 
     public static void slowMethod() {
-        System.out.println("ANOTHER METHOD!");
+        System.out.println("conflict");
     }
 }
